@@ -114,7 +114,8 @@
   "inbounds": [
     {
       "type": "tun",
-      "address": ["198.18.0.1/16", "fdfe:dcba:9876::1/126"],
+//      "address": ["198.18.0.1/16", "fdfe:dcba:9876::1/126"],
+      "inet4_address": "198.18.0.1/16",
       "auto_route": true,
       "exclude_package": [
         "cmb.pb",
