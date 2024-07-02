@@ -445,6 +445,9 @@
           "yacd.haishan.me",
           "d.metacubex.one"
         ],
+        "domain_suffix": [
+          "speed.net"
+        ]
         "outbound": "direct"
       },
       {
