@@ -468,9 +468,9 @@
         "outbound": "direct"
       },
       {
-        "domain": [
-          "*.jable.tv",
-          "*.51cg.cc",
+        "domain_suffix": [
+          "jable.tv",
+          "51cg.cc"
         ],
         "outbound": "AdBlock"
       },
