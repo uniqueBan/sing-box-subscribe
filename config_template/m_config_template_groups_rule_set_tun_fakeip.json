@@ -470,10 +470,12 @@
       },
       {
         "domain_suffix": [
-          "51cg.cc"
+          "51cg.cc",
+          "jable.tv"
         ],
         "domain":[
-          "51cg.cc"
+          "51cg.cc",
+          "jable.tv"
         ],
         "outbound": "AdBlock"
       },
