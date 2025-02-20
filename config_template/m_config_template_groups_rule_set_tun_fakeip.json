@@ -468,7 +468,7 @@
         ],
         "domain_suffix":[
           "modelscope.cn"
-        ]
+        ],
         "outbound": "direct"
       },
       {
