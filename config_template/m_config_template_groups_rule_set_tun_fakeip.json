@@ -464,8 +464,11 @@
           "yacd.haishan.me",
           "d.metacubex.one",
           "www.codewithgpu.com",
-          "www.ppbzy.com"
+          "www.ppbzy.com"          
         ],
+        "domain_suffix":[
+          "modelscope.cn"
+        ]
         "outbound": "direct"
       },
       {
